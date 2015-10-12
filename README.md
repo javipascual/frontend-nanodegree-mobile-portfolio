@@ -11,6 +11,7 @@ To see the final result, visit [Optimized website](https://rawgit.com/javipascua
   * add attribute `media=print` to stylesheet print.css
   * add async to embedded script and to google analytics script
   * move style.css and fonts to the end
+  * use smaller version of pizzeria.jpg
 
 * **views/js/main.js**
 
@@ -23,4 +24,5 @@ To see the final result, visit [Optimized website](https://rawgit.com/javipascua
 
 * **views/pizza.html**
 
+  * use smallest version of pizzeria.jpg
   * css files moved to the bottom of the html
