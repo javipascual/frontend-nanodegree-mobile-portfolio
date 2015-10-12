@@ -10,7 +10,8 @@ To see the final result, visit [Optimized website](https://rawgit.com/javipascua
 
   * add attribute `media=print` to stylesheet print.css
   * add async to embedded script and to google analytics script
-  * move style.css and fonts to the end
+  * embed style.css
+  * move fonts.css to the end
   * use smaller version of pizzeria.jpg
 
 * **views/js/main.js**
